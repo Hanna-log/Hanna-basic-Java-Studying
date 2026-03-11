@@ -1,30 +1,41 @@
-Hanna-Java-Study ☕
+# 🌟 Hanna's Journey into Java: Building the Foundation (Mar 2026)
 
-Welcome to my Java learning journey! 
 
-This repository is dedicated to mastering the fundamentals of Java and building a solid foundation as a Java developer.
+Hello! I am a passionate newcomer to the world of software engineering. 
 
-🎯 Learning Goals
-Master the Core: Deep dive into Java syntax, Object-Oriented Programming (OOP), and Memory Management.
+This repository marks the beginning of my journey into computer programming, starting with the fundamental concepts of Java.
 
-Build "Commander" Mindset: Understanding "Why" instead of just "How" to effectively utilize AI in development.
+I am currently self-studying using a renowned Korean introductory book, 'Java Self-Study (Hon-Gong-Ja)'.
 
-Global Readiness: Documenting the process in English to prepare for international career opportunities.
+My goal is to complete 2-3 full cycles of basic concepts before enrolling in a government-supported Java & Spring Bootcamp starting this May.
 
-📚 Study Roadmap (2026)
-Phase 1 (Pre-course): Self-studying 'Hon-Gong-Ja' (Completed 2~3 rounds before May).
+This repository is my "first step" dedicated to mastering the basics and building a solid foundation to become a professional Java developer.
 
-Phase 2 (Bootcamp): Intensive Java & Spring training (May - Oct).
+***
 
-Phase 3 (Certification): Obtaining Information Processing Engineer certification (Target: Dec).
+ 🎯 **Learning Objectives**: Mastering 'Java Self-Study'
+Core Concepts: Variables, Types, Control Statements, Classes, Inheritance, Interfaces, and Exception Handling.
 
-📂 Repository Structure
-src/: Weekly code snippets and exercises from textbooks.
+Proficiency: Developing a deep understanding of Java's essential syntax and object-oriented principles.
+***
+ 📚 **Global Readiness**
+Documenting my progress in English to prepare for future international career opportunities.
+***
+ 🗺️ **2026 Roadmap**
+* **Phase 1 (Pre-course)**: Complete self-study of 'Hon-Gong-Ja' (2-3 rounds) before May.
 
-notes/: Summary of key concepts (Variables, Modules, Exception Handling, etc.).
+* **Phase 2 (Bootcamp)**: Intensive Java and Spring training (May – October).
 
-✍️ Learning Records
-I document my detailed problem-solving processes and insights on my technical blogs:
+* **Phase 3 (Certification)**: Obtain the Engineer Information Processing (National Technical Qualification) to qualify for professional IT roles (Target: December).
+***
+📂 **Repository Structure**
+src/: Weekly code snippets, exercises, and hands-on examples from the textbook.
+
+Notes: Summaries of key concepts (Variables, Modules, Exception Handling, etc.).
+
+***
+✍️ **Learning Logs**
+I share my problem-solving process and technical insights on my blogs:
 
 Dev.to (Global)
 
