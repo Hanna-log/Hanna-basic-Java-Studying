@@ -37,6 +37,6 @@ Notes: Summaries of key concepts (Variables, Modules, Exception Handling, etc.).
 ✍️ **Learning Logs**
 I share my problem-solving process and technical insights on my blogs:
 
-Dev.to (Global)
+Dev.to ([Global](https://dev.to/hannalog))
 
-Velog (Korean)
+Velog ([Korean](https://velog.io/@hannalog))
