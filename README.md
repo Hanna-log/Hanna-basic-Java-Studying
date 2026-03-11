@@ -19,8 +19,12 @@ Core Concepts: Variables, Types, Control Statements, Classes, Inheritance, Inter
 Proficiency: Developing a deep understanding of Java's essential syntax and object-oriented principles.
 
 [x] Chapter 01. Getting started with Java
+
 [ ] Chapter 02. Variables and Types
+
 [ ] Chapter 03. operator
+
+
 ...
 
 ***
