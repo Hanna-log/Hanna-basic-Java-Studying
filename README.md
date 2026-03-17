@@ -74,6 +74,7 @@ Proficiency: Developing a deep understanding of Java's essential syntax and obje
 <br>
 📂 **Repository Structure**
 
+\
 src/: Weekly code snippets, exercises, and hands-on examples from the textbook.
 
 Notes: Summaries of key concepts (Variables, Modules, Exception Handling, etc.).
