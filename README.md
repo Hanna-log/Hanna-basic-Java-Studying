@@ -11,7 +11,7 @@ My goal is to complete 2-3 full cycles of basic concepts before enrolling in a g
 
 This repository is my "first step" dedicated to mastering the basics and building a solid foundation to become a professional Java developer.
 <br>
-
+<br>
 ***
 <br>
 
