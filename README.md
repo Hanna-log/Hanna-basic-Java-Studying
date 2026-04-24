@@ -38,7 +38,7 @@ Proficiency: Developing a deep understanding of Java's essential syntax and obje
 
 [x] Chapter 05. Reference Types (참조 타입) 3/19 ~ 3/27
 
-[x] Chapter 06. Classes (클래스) 3/28 ~
+[x] Chapter 06. Classes (클래스) 3/28 ~ 4/24
 
 [ ] Chapter 07. Inheritance (상속) 4/15 ~
 
